@@ -1,9 +1,9 @@
 # Site settings
 title: Hill Lab
-email: jon.hill@york.ac.uk
-description: Website of the Hill Environmental Modelling Research Group @ York
+email: "jon.hill@york.ac.uk"
+description: "Website of the Hill Environmental Modelling Research Group @ York"
 baseurl: "" # the subpath of your site, e.g. /blog/
-twitter_username: @jonxhill
+twitter_username: "@jonxhill"
 github_username: jonxhill
 # Build settings
 markdown: kramdown
