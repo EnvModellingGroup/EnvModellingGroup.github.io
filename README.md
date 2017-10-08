@@ -1,2 +1,4 @@
-# HillEnvModelling.github.io
-Website of the Hill Environmental Modelling Group
+HillEnvModelling.github.com
+==========================
+
+The Hill Environmental Modelling Lab GitHub Pages
